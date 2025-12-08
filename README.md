@@ -4,7 +4,7 @@
 
 ## 📸 截圖預覽
 
-載下來後執行 main_overlay.exe 即可
+載下來後執行 `main_overlay.exe` 即可
 
 <img width="227" height="127" alt="image" src="https://github.com/user-attachments/assets/50a40c4e-1d72-4c2d-8608-54aa3a95b9c6" />
 
