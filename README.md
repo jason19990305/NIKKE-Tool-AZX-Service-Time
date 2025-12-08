@@ -4,9 +4,15 @@
 
 ## 📸 截圖預覽
 
-*(在此處插入工具運作截圖)*
+載下來後執行 main_overlay.exe 即可
 
-![Overlay 範例](placeholder_screenshot.png)
+<img width="227" height="127" alt="image" src="https://github.com/user-attachments/assets/50a40c4e-1d72-4c2d-8608-54aa3a95b9c6" />
+
+如果正常運作畫面上會出現紅框
+
+<img width="209" height="426" alt="image" src="https://github.com/user-attachments/assets/4515c019-b217-411c-af31-a2f35394cd71" />
+
+
 
 ## ⚠️ 重要注意事項
 
