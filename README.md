@@ -12,6 +12,7 @@
 
 <img width="209" height="426" alt="image" src="https://github.com/user-attachments/assets/4515c019-b217-411c-af31-a2f35394cd71" />
 
+參考影片 : https://youtu.be/YGARDfeViOE?si=J9iWsOyhFpJ1NcRu
 
 
 ## ⚠️ 重要注意事項
