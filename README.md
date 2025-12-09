@@ -1,6 +1,6 @@
 # NIKKE Overlay Tool
 
-這是一個專為《妮姬：勝利女神》(NIKKE) PC 版設計的輔助工具，透過影像辨識 (Template Matching) 來協助解謎或提供資訊。
+這是一個專為《妮姬：勝利女神》(**NIKKE**) PC 版設計的輔助工具，透過影像辨識 (**Template Matching**) 來協助解謎或提供資訊。
 
 ## 📸 截圖預覽
 
