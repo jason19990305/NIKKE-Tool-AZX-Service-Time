@@ -4,7 +4,7 @@
 
 ## 📸 截圖預覽
 
-載下來後執行 `main_overlay/main_overlay.exe` 即可
+載下來後執行 `NIKKE_Tool_AZX-Service_Time/NIKKE_Tool_AZX-Service_Time.exe` 即可
 
 <img width="227" height="127" alt="image" src="https://github.com/user-attachments/assets/50a40c4e-1d72-4c2d-8608-54aa3a95b9c6" />
 
@@ -40,8 +40,8 @@
 
 ## 📦 如何使用
 
-1.  前往 `main_overlay` 資料夾。
-2.  執行 `main_overlay.exe`。
+1.  前往 `NIKKE_Tool_AZX-Service_Time` 資料夾。
+2.  執行 `NIKKE_Tool_AZX-Service_Time.exe`。
 3.  工具啟動後會顯示在遊戲畫面之上。
 
 ## 🛠️ 開發資訊
